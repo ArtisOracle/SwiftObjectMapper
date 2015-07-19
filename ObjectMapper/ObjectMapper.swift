@@ -157,6 +157,23 @@ func jsonObjectMaker<T: JSONSerializable>(object: T) -> [String : AnyObject] {
 }
 
 /**
+    Attempt to parse a type (a `JSONSerializable`).
+
+    :return: An instance of `T` if it could be constructed or nil otherwise.
+*/
+func modelParser<T where T: JSONSerializable>(input: Any?) -> T? {
+    var result: T? = nil
+    
+    if let t = input as? T {
+        result = t
+    } else if let dictionary = input as? [String : AnyObject] {
+        result = T(dictionary: dictionary)
+    }
+    
+    return result
+}
+
+/**
     Attempt to parse a type (one that is `NSCoding` and `JSONSerializable`).
 
     :return: An instance of `T` if it could be constructed or nil otherwise.

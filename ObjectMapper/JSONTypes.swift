@@ -1,5 +1,5 @@
 //
-//  JSON.swift
+//  JSONTypes.swift
 //  ObjectMapper
 //
 //  Created by Stefan Arambasich on 7/10/2015.

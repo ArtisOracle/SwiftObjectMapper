@@ -8,20 +8,23 @@
 
 /* Begin PBXBuildFile section */
 		F822E1C31B51744C00C795A6 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F116951B5089960086265D /* Extensions.swift */; };
+		F824084A1B5578F0002AF604 /* OldShit.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C3C0281B54D3EE002A7176 /* OldShit.swift */; };
 		F83B90761B50CBA600EE21F0 /* ObjectMapperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DE64361B50204C001CA0C4 /* ObjectMapperTests.swift */; };
 		F86D9CA21B50D12E00F1CDC6 /* ObjectMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DE64501B502118001CA0C4 /* ObjectMapper.swift */; };
-		F86D9CA31B50D13000F1CDC6 /* JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DE64541B50217F001CA0C4 /* JSON.swift */; };
 		F86D9CA41B50D13000F1CDC6 /* Map.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DE64521B502162001CA0C4 /* Map.swift */; };
-		F86D9CA51B50D13200F1CDC6 /* JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DE64541B50217F001CA0C4 /* JSON.swift */; };
 		F86D9CA61B50D13200F1CDC6 /* Map.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DE64521B502162001CA0C4 /* Map.swift */; };
 		F86D9CA71B50D13200F1CDC6 /* ObjectMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DE64501B502118001CA0C4 /* ObjectMapper.swift */; };
 		F86D9CA81B50D22800F1CDC6 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F116951B5089960086265D /* Extensions.swift */; };
+		F89BD8901B545B75000F43D6 /* JSONTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89BD88F1B545B75000F43D6 /* JSONTypes.swift */; };
+		F89BD8911B545B8B000F43D6 /* JSONTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89BD88F1B545B75000F43D6 /* JSONTypes.swift */; };
+		F8C3C0291B54D3EE002A7176 /* OldShit.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C3C0281B54D3EE002A7176 /* OldShit.swift */; };
 		F8DE644A1B502065001CA0C4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DE64421B502065001CA0C4 /* AppDelegate.swift */; };
 		F8DE644B1B502065001CA0C4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F8DE64431B502065001CA0C4 /* LaunchScreen.xib */; };
 		F8DE644C1B502065001CA0C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8DE64451B502065001CA0C4 /* Main.storyboard */; };
 		F8DE644D1B502065001CA0C4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8DE64471B502065001CA0C4 /* Images.xcassets */; };
 		F8DE644E1B502065001CA0C4 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F8DE64481B502065001CA0C4 /* Info.plist */; };
 		F8DE644F1B502065001CA0C4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DE64491B502065001CA0C4 /* ViewController.swift */; };
+		F8ED11FB1B588F890086A0A2 /* input.json in Resources */ = {isa = PBXBuildFile; fileRef = F8ED11FA1B588F890086A0A2 /* input.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,8 @@
 
 /* Begin PBXFileReference section */
 		F83B90621B50B6D900EE21F0 /* Playground.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Playground.swift; sourceTree = "<group>"; };
+		F89BD88F1B545B75000F43D6 /* JSONTypes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSONTypes.swift; sourceTree = "<group>"; };
+		F8C3C0281B54D3EE002A7176 /* OldShit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OldShit.swift; sourceTree = "<group>"; };
 		F8DE641B1B50204C001CA0C4 /* ObjectMapper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ObjectMapper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8DE64301B50204C001CA0C4 /* ObjectMapperTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ObjectMapperTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8DE64351B50204C001CA0C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -48,7 +53,7 @@
 		F8DE64491B502065001CA0C4 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F8DE64501B502118001CA0C4 /* ObjectMapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObjectMapper.swift; sourceTree = "<group>"; };
 		F8DE64521B502162001CA0C4 /* Map.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Map.swift; sourceTree = "<group>"; };
-		F8DE64541B50217F001CA0C4 /* JSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSON.swift; sourceTree = "<group>"; };
+		F8ED11FA1B588F890086A0A2 /* input.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = input.json; sourceTree = "<group>"; };
 		F8F116951B5089960086265D /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -102,6 +107,7 @@
 		F8DE64341B50204C001CA0C4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F8ED11FA1B588F890086A0A2 /* input.json */,
 				F8DE64351B50204C001CA0C4 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -110,10 +116,11 @@
 		F8DE64401B502061001CA0C4 /* ObjectMapper */ = {
 			isa = PBXGroup;
 			children = (
-				F8DE64541B50217F001CA0C4 /* JSON.swift */,
+				F89BD88F1B545B75000F43D6 /* JSONTypes.swift */,
 				F8DE64521B502162001CA0C4 /* Map.swift */,
 				F8DE64501B502118001CA0C4 /* ObjectMapper.swift */,
 				F83B90621B50B6D900EE21F0 /* Playground.swift */,
+				F8C3C0281B54D3EE002A7176 /* OldShit.swift */,
 			);
 			path = ObjectMapper;
 			sourceTree = "<group>";
@@ -231,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8ED11FB1B588F890086A0A2 /* input.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -242,8 +250,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				F8DE644F1B502065001CA0C4 /* ViewController.swift in Sources */,
+				F8C3C0291B54D3EE002A7176 /* OldShit.swift in Sources */,
 				F86D9CA81B50D22800F1CDC6 /* Extensions.swift in Sources */,
-				F86D9CA31B50D13000F1CDC6 /* JSON.swift in Sources */,
+				F89BD8901B545B75000F43D6 /* JSONTypes.swift in Sources */,
 				F86D9CA21B50D12E00F1CDC6 /* ObjectMapper.swift in Sources */,
 				F8DE644A1B502065001CA0C4 /* AppDelegate.swift in Sources */,
 				F86D9CA41B50D13000F1CDC6 /* Map.swift in Sources */,
@@ -255,8 +264,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				F822E1C31B51744C00C795A6 /* Extensions.swift in Sources */,
-				F86D9CA51B50D13200F1CDC6 /* JSON.swift in Sources */,
+				F824084A1B5578F0002AF604 /* OldShit.swift in Sources */,
 				F86D9CA61B50D13200F1CDC6 /* Map.swift in Sources */,
+				F89BD8911B545B8B000F43D6 /* JSONTypes.swift in Sources */,
 				F83B90761B50CBA600EE21F0 /* ObjectMapperTests.swift in Sources */,
 				F86D9CA71B50D13200F1CDC6 /* ObjectMapper.swift in Sources */,
 			);

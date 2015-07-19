@@ -1,0 +1,1268 @@
+[
+    {
+        "name": "A database ID",
+        "friendly": "A friendly",
+        "users": [
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			},
+			{
+				"user_name": "sarambasich",
+			    "email_address": "ArtisOracle@gmail.com",
+			    "first_name": "Stefan",
+			    "last_name": "Arambasich",
+			    "years": 24,
+			    "is_active": false,
+			    "extra_user_info": {
+			        "system": 5,
+			        "number": 99.5,
+			        "unis": [1, 4, 2, 3]
+				},
+			    "extra_user_infos": [
+				    {
+				        "system": 5,
+				        "number": 99.5,
+				        "unis": [1, 4, 2, 3]
+				    },
+				    {
+				        "system": 1,
+				        "number": 94.5,
+				        "unis": [4, 1]
+				    },
+				    {
+				        "system": 5,
+				        "number": -19.5042,
+				        "unis": [0]
+				    }
+				],
+			    "date_time": "2015-07-11T11:58:25-04:00",
+			    "login_date_times": [
+			        "2015-07-08T04:58:27-04:00",
+			        "2015-07-09T17:36:54-04:00",
+			        "2015-07-10T13:21:11-04:00"
+			    ]
+			}
+		 ]
+    }
+]
